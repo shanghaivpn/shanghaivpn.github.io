@@ -1,4 +1,4 @@
-# 上海VPN - 3月25日19.2M/S|免费Singbox节点/Shadowrocket节点/V2ray节点/SSR节点/Clash节点节点推荐，VPN梯子购买推荐  更新时间 2026-03-25 10:02:45
+# 上海VPN - 4月1日20M/S|免费SSR节点/Singbox节点/Shadowrocket节点/Clash节点/V2ray节点节点推荐，VPN梯子购买推荐  更新时间 2026-04-01 10:27:38
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://shanghaivpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://shanghaivpn.github.io/uploads/2026/03/0-20260325.yaml
-- https://shanghaivpn.github.io/uploads/2026/03/1-20260325.yaml
-- https://shanghaivpn.github.io/uploads/2026/03/2-20260325.yaml
-- https://shanghaivpn.github.io/uploads/2026/03/3-20260325.yaml
-- https://shanghaivpn.github.io/uploads/2026/03/4-20260325.yaml
+- https://shanghaivpn.github.io/uploads/2026/04/0-20260401.yaml
+- https://shanghaivpn.github.io/uploads/2026/04/1-20260401.yaml
+- https://shanghaivpn.github.io/uploads/2026/04/2-20260401.yaml
+- https://shanghaivpn.github.io/uploads/2026/04/3-20260401.yaml
+- https://shanghaivpn.github.io/uploads/2026/04/4-20260401.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://shanghaivpn.github.io/uploads/2026/03/0-20260325.txt
-- https://shanghaivpn.github.io/uploads/2026/03/1-20260325.txt
-- https://shanghaivpn.github.io/uploads/2026/03/2-20260325.txt
-- https://shanghaivpn.github.io/uploads/2026/03/3-20260325.txt
-- https://shanghaivpn.github.io/uploads/2026/03/4-20260325.txt
+- https://shanghaivpn.github.io/uploads/2026/04/0-20260401.txt
+- https://shanghaivpn.github.io/uploads/2026/04/1-20260401.txt
+- https://shanghaivpn.github.io/uploads/2026/04/2-20260401.txt
+- https://shanghaivpn.github.io/uploads/2026/04/3-20260401.txt
+- https://shanghaivpn.github.io/uploads/2026/04/4-20260401.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://shanghaivpn.github.io/uploads/2026/03/20260325.json
+- https://shanghaivpn.github.io/uploads/2026/04/20260401.json
 
 ## 更多Clash节点订阅 ：
 
